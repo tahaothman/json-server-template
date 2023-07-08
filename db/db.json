@@ -3,7 +3,7 @@
     {
       "id": 1,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
+      "image": "https://placehold.co/150x150.jpg",
       "exampleAttributesArray": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": {
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
+      "image": "https://placehold.co/150x150.jpg",
       "exampleAttributesArray": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": {
@@ -25,7 +25,7 @@
     {
       "id": 3,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
+      "image": "https://placehold.co/150x150.jpg",
       "exampleAttributesArray": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": {
@@ -36,7 +36,7 @@
     {
       "id": 4,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
+      "image": "https://placehold.co/150x150.jpg",
       "exampleAttributesArray": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": {
@@ -47,7 +47,7 @@
     {
       "id": 5,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
+      "image": "https://placehold.co/150x150.jpg",
       "exampleAttributesArray": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": {
@@ -58,7 +58,7 @@
     {
       "id": 6,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
+      "image": "https://placehold.co/150x150.jpg",
       "exampleAttributesArray": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": {
@@ -69,7 +69,7 @@
     {
       "id": 7,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
+      "image": "https://placehold.co/150x150.jpg",
       "exampleAttributesArray": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": {
@@ -80,7 +80,7 @@
     {
       "id": 8,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
+      "image": "https://placehold.co/150x150.jpg",
       "exampleAttributesArray": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": {
@@ -91,7 +91,7 @@
     {
       "id": 9,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
+      "image": "https://placehold.co/150x150.jpg",
       "exampleAttributesArray": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": {
@@ -102,7 +102,7 @@
     {
       "id": 10,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
+      "image": "https://placehold.co/150x150.jpg",
       "exampleAttributesArray": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": {
@@ -113,7 +113,7 @@
     {
       "id": 11,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
+      "image": "https://placehold.co/150x150.jpg",
       "exampleAttributesArray": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": {
@@ -124,7 +124,7 @@
     {
       "id": 12,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
+      "image": "https://placehold.co/150x150.jpg",
       "exampleAttributesArray": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": {
@@ -135,7 +135,7 @@
     {
       "id": 13,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
+      "image": "https://placehold.co/150x150.jpg",
       "exampleAttributesArray": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": {
@@ -146,7 +146,7 @@
     {
       "id": 14,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
+      "image": "https://placehold.co/150x150.jpg",
       "exampleAttributesArray": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": {
@@ -157,7 +157,7 @@
     {
       "id": 15,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
+      "image": "https://placehold.co/150x150.jpg",
       "exampleAttributesArray": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": {
