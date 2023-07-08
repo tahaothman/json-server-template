@@ -4,18 +4,18 @@
       "id": 1,
       "driverName": "This is just an example. Please supply your own data.",
       "address": "https://placehold.co/150x150.jpg",
-      "phoneNumber": 000-000-0000,
-      "checkInTime": 01/01/2001 10:00 am,
-      "checkOutTime": 01/01/2001 12: 00 am,
+      "phoneNumber": "000-000-0000",
+      "checkInTime": "01/01/2001 10:00 am",
+      "checkOutTime": "01/01/2001 12: 00 am",
       "emptySpot": false
     },
     {
       "id": 2,
       "driverName": "This is just an example. Please supply your own data.",
       "address": "https://placehold.co/150x150.jpg",
-      "phoneNumber": 000-000-0000,
-      "checkInTime": 01/01/2001 10:00 am,
-      "checkOutTime": 01/01/2001 12: 00 am,
+      "phoneNumber": "000-000-0000",
+      "checkInTime": "01/01/2001 10:00 am",
+      "checkOutTime": "01/01/2001 12: 00 am",
       "emptySpot": false
     
     },
@@ -23,9 +23,9 @@
       "id": 3,
       "driverName": "This is just an example. Please supply your own data.",
       "address": "https://placehold.co/150x150.jpg",
-      "phoneNumber": 000-000-0000,
-      "checkInTime": 01/01/2001 10:00 am,
-      "checkOutTime": 01/01/2001 12: 00 am,
+      "phoneNumber": "000-000-0000",
+      "checkInTime": "01/01/2001 10:00 am",
+      "checkOutTime": "01/01/2001 12: 00 am",
       "emptySpot": false
      
     },
@@ -33,9 +33,9 @@
       "id": 4,
       "driverName": "This is just an example. Please supply your own data.",
       "address": "https://placehold.co/150x150.jpg",
-      "phoneNumber": 000-000-0000,
-      "checkInTime": 01/01/2001 10:00 am,
-      "checkOutTime": 01/01/2001 12: 00 am,
+      "phoneNumber": "000-000-0000",
+      "checkInTime": "01/01/2001 10:00 am",
+      "checkOutTime": "01/01/2001 12: 00 am",
       "emptySpot": false
       
     },
@@ -43,9 +43,9 @@
       "id": 5,
       "driverName": "This is just an example. Please supply your own data.",
       "address": "https://placehold.co/150x150.jpg",
-      "phoneNumber": 000-000-0000,
-      "checkInTime": 01/01/2001 10:00 am,
-      "checkOutTime": 01/01/2001 12: 00 am,
+      "phoneNumber": "000-000-0000",
+      "checkInTime": "01/01/2001 10:00 am",
+      "checkOutTime": "01/01/2001 12: 00 am",
       "emptySpot": false
       
     },
@@ -53,9 +53,9 @@
       "id": 6,
       "driverName": "This is just an example. Please supply your own data.",
       "address": "https://placehold.co/150x150.jpg",
-      "phoneNumber": 000-000-0000,
-      "checkInTime": 01/01/2001 10:00 am,
-      "checkOutTime": 01/01/2001 12: 00 am,
+      "phoneNumber": "000-000-0000",
+      "checkInTime": "01/01/2001 10:00 am",
+      "checkOutTime": "01/01/2001 12: 00 am",
       "emptySpot": false
       
     },
@@ -63,72 +63,72 @@
       "id": 7,
       "driverName": "This is just an example. Please supply your own data.",
       "address": "https://placehold.co/150x150.jpg",
-      "phoneNumber": 000-000-0000,
-      "checkInTime": 01/01/2001 10:00 am,
-      "checkOutTime": 01/01/2001 12: 00 am,
+      "phoneNumber": "000-000-0000",
+      "checkInTime": "01/01/2001 10:00 am",
+      "checkOutTime": "01/01/2001 12: 00 am",
       "emptySpot": false
     },
     {
       "id": 8,
       "driverName": "This is just an example. Please supply your own data.",
       "address": "https://placehold.co/150x150.jpg",
-      "phoneNumber": 000-000-0000,
-      "checkInTime": 01/01/2001 10:00 am,
-      "checkOutTime": 01/01/2001 12: 00 am,
+      "phoneNumber": "000-000-0000",
+      "checkInTime": "01/01/2001 10:00 am",
+      "checkOutTime": "01/01/2001 12: 00 am",
       "emptySpot": false
     },
     {
       "id": 9,
       "driverName": "This is just an example. Please supply your own data.",
       "address": "https://placehold.co/150x150.jpg",
-      "phoneNumber": 000-000-0000,
-      "checkInTime": 01/01/2001 10:00 am,
-      "checkOutTime": 01/01/2001 12: 00 am,
+      "phoneNumber": "000-000-0000",
+      "checkInTime": "01/01/2001 10:00 am",
+      "checkOutTime": "01/01/2001 12: 00 am",
       "emptySpot": false
     },
     {
       "id": 10,
       "driverName": "This is just an example. Please supply your own data.",
       "address": "https://placehold.co/150x150.jpg",
-      "phoneNumber": 000-000-0000,
-      "checkInTime": 01/01/2001 10:00 am,
-      "checkOutTime": 01/01/2001 12: 00 am,
+      "phoneNumber": "000-000-0000",
+      "checkInTime": "01/01/2001 10:00 am",
+      "checkOutTime": "01/01/2001 12: 00 am",
       "emptySpot": false
     },
     {
       "id": 11,
       "driverName": "This is just an example. Please supply your own data.",
       "address": "https://placehold.co/150x150.jpg",
-      "phoneNumber": 000-000-0000,
-      "checkInTime": 01/01/2001 10:00 am,
-      "checkOutTime": 01/01/2001 12: 00 am,
+      "phoneNumber": "000-000-0000",
+      "checkInTime": "01/01/2001 10:00 am",
+      "checkOutTime": "01/01/2001 12: 00 am",
       "emptySpot": false
     },
     {
       "id": 12,
       "driverName": "This is just an example. Please supply your own data.",
       "address": "https://placehold.co/150x150.jpg",
-      "phoneNumber": 000-000-0000,
-      "checkInTime": 01/01/2001 10:00 am,
-      "checkOutTime": 01/01/2001 12: 00 am,
+      "phoneNumber": "000-000-0000",
+      "checkInTime": "01/01/2001 10:00 am",
+      "checkOutTime": "01/01/2001 12: 00 am",
       "emptySpot": false
     },
     {
       "id": 13,
       "driverName": "This is just an example. Please supply your own data.",
       "address": "https://placehold.co/150x150.jpg",
-      "phoneNumber": 000-000-0000,
-      "checkInTime": 01/01/2001 10:00 am,
-      "checkOutTime": 01/01/2001 12: 00 am,
+      "phoneNumber": "000-000-0000",
+      "checkInTime": "01/01/2001 10:00 am",
+      "checkOutTime": "01/01/2001 12: 00 am",
       "emptySpot": false
     },
     {
       "id": 14,
       "driverName": "This is just an example. Please supply your own data.",
       "address": "https://placehold.co/150x150.jpg",
-      "phoneNumber": 000-000-0000,
-      "checkInTime": 01/01/2001 10:00 am,
-      "checkOutTime": 01/01/2001 12: 00 am,
+      "phoneNumber": "000-000-0000",
+      "checkInTime": "01/01/2001 10:00 am",
+      "checkOutTime": "01/01/2001 12: 00 am",
       "emptySpot": false
     },
 
