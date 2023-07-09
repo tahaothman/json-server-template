@@ -4,7 +4,7 @@
       "id": 1,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
       "image": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
+      "address": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": "2012-04-23T18:25:43.511Z",
       "exampleAttributeBoolean": false
@@ -13,7 +13,7 @@
       "id": 2,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
       "image": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
+      "address": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": "2012-04-23T18:25:43.511Z",
       "exampleAttributeBoolean": false
@@ -22,7 +22,7 @@
       "id": 3,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
       "image": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
+      "address": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj":"2012-04-23T18:25:43.511Z",
       "exampleAttributeBoolean": false
@@ -31,7 +31,7 @@
       "id": 4,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
       "image": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
+      "address": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": "2012-04-23T18:25:43.511Z",
       "exampleAttributeBoolean": false
@@ -40,7 +40,7 @@
       "id": 5,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
       "image": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
+      "address": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": "2012-04-23T18:25:43.511Z",
       "exampleAttributeBoolean": false
@@ -49,7 +49,7 @@
       "id": 6,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
       "image": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
+      "address": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": "2012-04-23T18:25:43.511Z",
       "exampleAttributeBoolean": false
@@ -58,7 +58,7 @@
       "id": 7,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
       "image": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
+      "address": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": "2012-04-23T18:25:43.511Z",
       "exampleAttributeBoolean": false
@@ -67,7 +67,7 @@
       "id": 8,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
       "image": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
+      "address": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": "2012-04-23T18:25:43.511Z",
       "exampleAttributeBoolean": false
@@ -76,7 +76,7 @@
       "id": 9,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
       "image": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
+      "address": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj":"2012-04-23T18:25:43.511Z",
       "exampleAttributeBoolean": false
@@ -85,7 +85,7 @@
       "id": 10,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
       "image": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
+      "address": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj":"2012-04-23T18:25:43.511Z",
       "exampleAttributeBoolean": false
@@ -94,7 +94,7 @@
       "id": 11,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
       "image": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
+      "address": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": "2012-04-23T18:25:43.511Z",
       "exampleAttributeBoolean": false
@@ -103,7 +103,7 @@
       "id": 12,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
       "image": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
+      "address": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": "2012-04-23T18:25:43.511Z",
       "exampleAttributeBoolean": false
@@ -112,7 +112,7 @@
       "id": 13,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
       "image": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
+      "address": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": "2012-04-23T18:25:43.511Z",
       "exampleAttributeBoolean": false
@@ -121,7 +121,7 @@
       "id": 14,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
       "image": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
+      "address": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": "2012-04-23T18:25:43.511Z",
       "exampleAttributeBoolean": false
@@ -130,7 +130,7 @@
       "id": 15,
       "exampleAttributeString": "This is just an example. Please supply your own data.",
       "image": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
+      "address": ["Replace", "this", "data"],
       "exampleAttributeNumber": 2341,
       "exampleAttributeObj": "2012-04-23T18:25:43.511Z",
       "exampleAttributeBoolean": false
